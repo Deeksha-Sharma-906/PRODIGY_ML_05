@@ -1,2 +1,4 @@
 # PRODIGY_ML_05
-Intern at Prodigy Infotech, working on Machine Learning projects. This repository stores my projects and implementations.
+Develop a model that can accurately recognize food items from images and estimate their calorie content, enabling users to track their dietary intake and make informed food choices.
+
+Dataset :- https://www.kaggle.com/dansbecker/food-101
